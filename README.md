@@ -58,8 +58,3 @@ You can also set up some Macros or System Actions in Logitech G Hub if you have 
 
 P.S. The 'runSyncDownload.bat' script will automatically close and reopen the Logitech G Hub application, it needs to do this in order to update the settings file as it would otherwise be in use by the application and fail to sync.
 
-
-
-
-- Ansel Anselmi.
-
